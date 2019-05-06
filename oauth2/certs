@@ -15,6 +15,14 @@
             "kty": "RSA",
             "n": "u5aR8Cgy3uA25YvxhnX057WBAJ1X4zrLvrqcweZCCPt8UtdIGpReAQdGDDOQMNbJEXNzRDGHSjfxCzCyn18MSEDudy048CWZ6fMUmmi6q_6Imx0PMLijAnGdobbY9_6yM6V86VrmxErkixJPyyj7OcAh7NOXW3CBvUrMear3JwDhHvuuG1C3Zs-D3n5Zv4yfoSk-K3MN6c0byAsADx1tpHuWXApF5_8Gscvj0Mn15sEsMAebhIgsfXJpxQD8YwosmICiWaJMGUqKVuk2FG0W5KYe1oEXDq51vUiS9_E7SYhnUU3GA4arDDpMvpkhwVNEkKuo_uPY-SYIvRdEJzRUaQ==",
             "use": "sig"
+        },
+        {
+            "crv": "P-256",
+            "kid": "6804",
+            "kty": "EC",
+            "use": "sig",
+            "x": "Svjur4JHtjpmdx5w6dWVuja_tKpqZ4JQzmo9juVlWNQ=",
+            "y": "NHTw__ljkLVwHQ-mRIRic9DF5lIBSHqpbVwpAJUQ0xQ="
         }
     ]
 }
